@@ -1,2 +1,0 @@
-package Buldugum_Sorular;
-
