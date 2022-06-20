@@ -1,6 +1,6 @@
  
 
          <p align="center">
-  <img src="JAVA/HesapMakinesi/Calculator.png" title="Calculator">
+  <img src="JAVA/HesapMakinesi/calculator.png" title="Calculator">
          </p>
       
