@@ -1,6 +1,6 @@
  
 
          <p align="center">
-  <img src="HesapMakinesi/calculator.png" title="Calculator">
+  <img src="HesapMakinesi/calculator.png"></img>
          </p>
       
